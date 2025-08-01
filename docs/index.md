@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: Projects
-      link: /projects/Projects.md
+      link: /projects/projects.md
     - theme: alt
       text: Blogs
-      link: /blogs
+      link: /blogs/about.md
   image:
     src: /favicon.png
     alt: Teek
