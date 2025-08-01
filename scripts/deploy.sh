@@ -9,6 +9,7 @@ rm -rf .git
 
 git config user.name "ACoderOrHacker"
 git config user.email "sgy2788@163.com"
+git config --global init.defaultBranch master
 
 git init
 git add -A
