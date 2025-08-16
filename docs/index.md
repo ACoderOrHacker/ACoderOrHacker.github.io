@@ -14,7 +14,7 @@ hero:
       link: /projects/projects.md
     - theme: alt
       text: Blogs
-      link: /blogs/about.md
+      link: https://ACoderOrHacker.github.io/blogs/
   image:
     src: /favicon.png
     alt: Teek

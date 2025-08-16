@@ -17,7 +17,7 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Blogs', link: '/blogs/about.md' },
+      { text: 'Blogs', link: 'https://ACoderOrHacker.github.io/blogs/' },
       { text: 'Projects', link: '/projects/projects.md' },
       { text: 'About', link: '/about.md' }
     ],
